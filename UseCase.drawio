@@ -1,9 +1,72 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="Page-1" id="mKDFexNwtWMQTspOCSy4">
-    <mxGraphModel>
+    <mxGraphModel dx="825" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="350" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-3" value="&lt;font style=&quot;color: rgb(255, 0, 0); font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;Système de gestion de stock&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="214" y="170" width="216" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-4" target="KXLGg24-Py2XmbXzdvi3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-16" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-4" target="KXLGg24-Py2XmbXzdvi3-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-17" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-4" target="KXLGg24-Py2XmbXzdvi3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-4" target="KXLGg24-Py2XmbXzdvi3-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-19" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-4" target="KXLGg24-Py2XmbXzdvi3-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-4" target="KXLGg24-Py2XmbXzdvi3-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-4" value="Utilisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-5" value="Se Connecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-6" value="Gérer les produits" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-7" value="Gérer les Catégories" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-8" value="Gérer les utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-9" target="KXLGg24-Py2XmbXzdvi3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-9" target="KXLGg24-Py2XmbXzdvi3-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-9" value="Administrateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="860" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.518;entryY=0.86;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" edge="1" parent="1" source="KXLGg24-Py2XmbXzdvi3-9" target="KXLGg24-Py2XmbXzdvi3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-11" value="Suivre les mouvements de stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-12" value="Gérer les rôles des utilisateurs" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-13" value="Ajouter un mouvement de stock" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="545" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="KXLGg24-Py2XmbXzdvi3-14" value="Générer un rapport" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
